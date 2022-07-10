@@ -5,7 +5,6 @@
   --color-secundario: #B3B4C7;
 }
 
-
 /* RESET */
 
 *{
@@ -361,9 +360,8 @@ footer {
 /* SECCION SOBRE MI */
 
 .section-sobre__cv {
-width: 50%;
+  width: 50%;
 }
-
 
 .section-sobre h3 {
   width: 50%;
@@ -375,7 +373,6 @@ width: 50%;
 .section-sobre h3:hover {
   opacity: .5 ;
 }
-
 
 .section-sobre p {
   font-size: large;
