@@ -368,6 +368,12 @@ width: 50%;
 .section-sobre h3 {
   width: 50%;
   padding: 1rem 0; 
+  transition: all 0.25s ease-out; 
+  opacity: .9;
+}
+
+.section-sobre h3:hover {
+  opacity: .5 ;
 }
 
 
